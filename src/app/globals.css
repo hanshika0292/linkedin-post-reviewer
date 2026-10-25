@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* LinkedIn's system font stack */
+  --font-sans: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+body {
+  background: #f4f2ee;
+  color: #18181b;
+}
